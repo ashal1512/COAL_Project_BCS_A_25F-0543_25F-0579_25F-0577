@@ -518,3 +518,4 @@ drawmap:
     pop bx
     pop ax
     ret
+; verified 320x200 offscreen blit and 2x super mario sprite scaling
